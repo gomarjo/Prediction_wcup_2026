@@ -57,8 +57,15 @@ Los nombres del dataset van en inglés (columnas `home_team`/`away_team` de
 - **Goleadores**: reparto del xG consenso del equipo entre sus anotadores de los últimos
   2 años (decaimiento con semivida de 1 año, sin autogoles).
 
-## Advertencia
+## Descargo de responsabilidad
 
-Estas predicciones son estimaciones estadísticas; ningún modelo garantiza resultados.
-El análisis de valor (script 05) es informativo. Si apuestas, hazlo con moderación y
-solo lo que puedas permitirte perder.
+Este proyecto tiene fines **educativos y de análisis estadístico**. Las predicciones
+son estimaciones probabilísticas y ningún modelo garantiza resultados.
+
+El uso que cada persona dé a esta herramienta —incluido el uso en apuestas— es
+**decisión y responsabilidad exclusiva de quien la utiliza**. El autor no se hace
+responsable de pérdidas económicas ni de ninguna consecuencia derivada de su uso.
+
+Si decides apostar: verifica que sea legal en tu jurisdicción y que tengas la edad
+mínima requerida, hazlo con moderación y apuesta únicamente lo que puedas
+permitirte perder. El juego puede causar adicción.
