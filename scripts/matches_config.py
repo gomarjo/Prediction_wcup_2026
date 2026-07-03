@@ -9,7 +9,7 @@ Todos se predicen con neutral=True (Copa del Mundo 2026, sede neutral).
 """
 
 MATCHES = [
-    (1, "España", "Austria", "Spain", "Austria"),
-    (2, "Portugal", "Croacia", "Portugal", "Croatia"),
-    (3, "Suiza", "Argelia", "Switzerland", "Algeria"),
+    (1, "Australia", "Egipto", "Australia", "Egypt"),
+    (2, "Argentina", "Cabo Verde", "Argentina", "Cape Verde"),
+    (3, "Colombia", "Ghana", "Colombia", "Ghana"),
 ]
